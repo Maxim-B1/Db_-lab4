@@ -1,0 +1,11 @@
+mysql:
+  MYSQL_HOST: localhost
+  MYSQL_USER: root
+  MYSQL_PASSWORD: "290506"
+  MYSQL_DB: planetdrugsdirect
+  MYSQL_CURSORCLASS: DictCursor
+
+flask:
+  host: "127.0.0.1"
+  port: 5000
+  debug: true
